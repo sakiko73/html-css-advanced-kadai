@@ -85,7 +85,9 @@ PC用のスタイル
     height: 100%;
     width: 100%;
     display: none;
+    z-index: 100;
   }
+  
   #close {
     position: absolute;
     top: 20px;
